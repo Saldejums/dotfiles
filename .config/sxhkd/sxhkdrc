@@ -25,7 +25,7 @@ super + e
 
 # terminal emulator
 super + Return
-	urxvt
+	st
 
 # program launcher
 super + d
