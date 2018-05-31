@@ -21,7 +21,7 @@ XF86MonBrightnessDown
 
 # web browser
 super + e
-	qutebrowser
+	firefox
 
 # terminal emulator
 super + Return
