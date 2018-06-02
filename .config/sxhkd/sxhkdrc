@@ -21,11 +21,11 @@ XF86MonBrightnessDown
 
 # web browser
 super + e
-	firefox
+	qutebrowser
 
 # terminal emulator
 super + Return
-	st
+	urxvt
 
 # program launcher
 super + d

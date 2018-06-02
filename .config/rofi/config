@@ -1,0 +1,3 @@
+rofi.theme: ~/.cache/wal/colors-rofi-light.rasi
+rofi.lines: 5
+rofi.font:	Anonymous Pro 10
